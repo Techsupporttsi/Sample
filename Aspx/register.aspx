@@ -1,6 +1,7 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="register.aspx.cs" Inherits="register" %>
 
 <!DOCTYPE html>
+new line was added
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
